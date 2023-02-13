@@ -8,7 +8,7 @@ HTML, CSS, JavaScript
 
 ## Screenshots
 
-![App Screenshot](https://github.com/vimalpksh/blurred-background-popup/blob/main/11.PNG?raw=true)
+![App Screenshot](https://github.com/vimalpksh/random-image-generator/blob/main/ss2.PNG?raw=true)
 
 ## Demo
 
